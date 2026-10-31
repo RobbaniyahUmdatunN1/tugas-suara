@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+berisik/
+non-berisik/
+*.mp3
+*.wav
+.git
+.vscode
+monitor.py

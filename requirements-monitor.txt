@@ -1,0 +1,3 @@
+# Hanya untuk monitor.py (mikrofon + jendela desktop), dijalankan di laptop, BUKAN di Docker
+-r requirements.txt
+sounddevice

@@ -1,0 +1,9 @@
+services:
+  klasifikasi-suara:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: klasifikasi-suara
+    restart: unless-stopped
+    ports:
+      - "8005:8501"

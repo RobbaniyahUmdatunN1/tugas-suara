@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.vscode/
+# dataset audio tidak di-push (besar); model_rf.joblib & fitur_suara.csv TETAP di-push
+berisik/
+non-berisik/
+*.mp3
+*.wav
+rms_per_frame.csv
